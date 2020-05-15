@@ -1,2 +1,2 @@
-print("Listado de Alumnos de \nLenguajes de Programación")
+print("Lenguajes de Programación\nListado de Alumnos de \n")
 print("Prof. Joel Torres")
